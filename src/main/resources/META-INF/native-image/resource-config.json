@@ -1,0 +1,21 @@
+{
+  "resources":[
+    {"pattern":"\\QMETA-INF/services/org.apache.lucene.codecs.Codec\\E"}, 
+    {"pattern":"\\QMETA-INF/services/org.apache.lucene.codecs.DocValuesFormat\\E"}, 
+    {"pattern":"\\QMETA-INF/services/org.apache.lucene.codecs.PostingsFormat\\E"}, 
+    {"pattern":"\\QMETA-INF/services/org.hibernate.integrator.spi.Integrator\\E"}, 
+    {"pattern":"\\QMETA-INF/services/org.hibernate.search.analyzer.definition.spi.LuceneAnalysisDefinitionSourceService\\E"}, 
+    {"pattern":"\\QMETA-INF/services/org.hibernate.search.cfg.spi.DirectoryProviderService\\E"}, 
+    {"pattern":"\\QMETA-INF/services/org.hibernate.search.store.spi.LockFactoryCreator\\E"}, 
+    {"pattern":"\\QMETA-INF/services/org.hibernate.service.spi.ServiceContributor\\E"}, 
+    {"pattern":"\\Qorg/h2/util/data.zip\\E"}, 
+    {"pattern":"\\Qorg/hibernate/hibernate-configuration-3.0.dtd\\E"}, 
+    {"pattern":"\\Qorg/hibernate/hibernate-mapping-3.0.dtd\\E"}, 
+    {"pattern":"\\Qorg/hibernate/hibernate-mapping-4.0.xsd\\E"}, 
+    {"pattern":"\\Qorg/hibernate/jpa/orm_2_0.xsd\\E"}, 
+    {"pattern":"\\Qorg/hibernate/jpa/orm_2_1.xsd\\E"}, 
+    {"pattern":"\\Qorg/hibernate/xsd/cfg/legacy-configuration-4.0.xsd\\E"}, 
+    {"pattern":"\\Qorg/hibernate/xsd/mapping/legacy-mapping-4.0.xsd\\E"}
+  ],
+  "bundles":[]
+}
